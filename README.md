@@ -1,2 +1,5 @@
 # AB2017
-for_dongusu
+for-dongusu
+linux öğreniyorum
+git öğreniyorum
+felan filan
